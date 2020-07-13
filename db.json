@@ -8,14 +8,14 @@
       "tech": "John Doe"
     },
     {
-      "id": 1,
+      "id": 2,
       "message": "Changed memory on workstation 050",
       "attention": true,
       "date": "03-02-2020",
       "tech": "Sara Wilson"
     },
     {
-      "id": 1,
+      "id": 3,
       "message": "SSD malfunction from workstation",
       "attention": false,
       "date": "03-02-2020",
