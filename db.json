@@ -4,21 +4,21 @@
       "id": 1,
       "message": "Workstation 007 not posting",
       "attention": true,
-      "date": "03-02-2020",
+      "date": "202005-31T15:46:10.179Z",
       "tech": "John Doe"
     },
     {
       "id": 2,
       "message": "Changed memory on workstation 050",
       "attention": true,
-      "date": "03-02-2020",
+      "date": "202005-31T15:46:10.179Z",
       "tech": "Sara Wilson"
     },
     {
       "id": 3,
       "message": "SSD malfunction from workstation",
       "attention": false,
-      "date": "03-02-2020",
+      "date": "202005-31T15:46:10.179Z",
       "tech": "Petrus Cathilus"
     }
   ],
