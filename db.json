@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Workstation 007 not posting",
+      "attention": true,
+      "date": "03-02-2020",
+      "tech": "John Doe"
+    },
+    {
+      "id": 1,
+      "message": "Changed memory on workstation 050",
+      "attention": true,
+      "date": "03-02-2020",
+      "tech": "Sara Wilson"
+    },
+    {
+      "id": 1,
+      "message": "SSD malfunction from workstation",
+      "attention": false,
+      "date": "03-02-2020",
+      "tech": "Petrus Cathilus"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "id": 3,
+      "firstName": "Petrus",
+      "lastName": "Cathilus"
+    }
+  ]
+}
