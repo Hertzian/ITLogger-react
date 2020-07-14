@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Workstation 007 not posting",
-      "attention": true,
-      "date": "202005-31T15:46:10.179Z",
-      "tech": "John Doe"
-    },
-    {
-      "id": 2,
-      "message": "Changed memory on workstation 050",
-      "attention": true,
-      "date": "202005-31T15:46:10.179Z",
-      "tech": "Sara Wilson"
-    },
-    {
-      "id": 3,
-      "message": "SSD malfunction from workstation",
+      "message": "Changed network card in server 007",
       "attention": false,
-      "date": "202005-31T15:46:10.179Z",
-      "tech": "Petrus Cathilus"
+      "tech": "John Doe",
+      "date": "2020-07-14T08:10:20.132Z",
+      "id": 1
+    },
+    {
+      "message": "Graphics card in server 002",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-07-14T08:10:46.949Z",
+      "id": 2
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Williams",
+      "date": "2020-07-14T08:16:32.218Z",
+      "id": 3
     }
   ],
   "techs": [
