@@ -11,15 +11,15 @@
       "id": 2,
       "message": "Fixed hard drive on worksatation 002",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2020-07-14T09:55:12.625Z"
+      "tech": "Petrus Cathilus",
+      "date": "2020-07-15T04:08:54.096Z"
     },
     {
+      "id": 3,
       "message": "1122 wireless down",
       "attention": true,
-      "tech": "Sara Williams",
-      "date": "2020-07-14T08:16:32.218Z",
-      "id": 3
+      "tech": "Sara Wilson",
+      "date": "2020-07-15T04:08:41.112Z"
     }
   ],
   "techs": [
