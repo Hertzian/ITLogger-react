@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import TechSelectOptions from '../techs/TechSelectOptions';
 import {addLog} from '../../actions/logActions'
 
-import M from 'materialize-css/dist/js/materialize.min.js'
+import M from 'materialize-css/dist/js/materialize.min.js';
 
 const AddLogModal = ({addLog}) => {
     const [message, setMessage] = useState('');
@@ -13,7 +13,7 @@ const AddLogModal = ({addLog}) => {
 
     const onSubmit = () => {
         if(message === '' || tech === ''){
-            M.toast({html: 'Please enter a message and tech'})
+            M.toast({html: 'Please enter a message and tech'});
         }else{
             const newLog = {
                 message,
