@@ -37,6 +37,16 @@
       "id": 3,
       "firstName": "Petrus",
       "lastName": "Cathilus"
+    },
+    {
+      "firstName": "Lalo",
+      "lastName": "Agular",
+      "id": 4
+    },
+    {
+      "firstName": "Pedro",
+      "lastName": "Fernandez",
+      "id": 5
     }
   ]
 }
